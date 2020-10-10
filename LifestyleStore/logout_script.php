@@ -5,6 +5,6 @@
     
     if($_SESSION['id']==Null)
     {
-        header("location: index.php");
+        header("location: home.php");
     }
 ?>

@@ -33,7 +33,7 @@
                         </div>
                         <div class="panel-body">
                             <p class="text-warning">Login to make a purchase</p>
-                            <form method="POST" action="Login_submit.php">
+                            <form method="POST" action="login_submit.php">
                                 <div class="form-group">
                                     <input type="email"  class="form-control" name="email"  placeholder="Email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="Enter correct email" required>
                                 </div>

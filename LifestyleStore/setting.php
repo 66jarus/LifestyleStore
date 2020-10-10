@@ -2,7 +2,7 @@
     require "includes/common.php";
     
     if (!isset($_SESSION['email'])) {
-        header('location: index.php');
+        header('location: home.php');
     }
 ?>    
 <!DOCTYPE html>
